@@ -29,3 +29,5 @@ plugins:
 # Custom variables
 owner: "Veck"
 year: "2020"
+
+theme: jekyll-theme-cayman
